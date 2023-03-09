@@ -15,3 +15,6 @@ use the UU† format or using the Swap-Test.
 
 Please refer to the 'Task 3 submission' notebook.
 
+_NOTE: The results table in the jupyter notebook markdown might not be getting
+rendered properly. In that case, opening the notebook locally could help._
+
